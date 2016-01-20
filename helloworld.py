@@ -1,3 +1,21 @@
+print('Hello World!') # greeting in English
+print('pick your favorite language!') #ask a language to pick
+language=input()
+if language == '1':
+    print('Hola Mundo')   # greetings in Spanish
+if language == '2':
+    print('Bonjour la monde')  # greetings in French
+if language == '3':
+    print('Hallo Welt')  # greetings in German
+import sys
+sys.exit()
+
+
+
+
+
+
+
 # replace the contents of this comment with your full name
 
 # write a program that:
